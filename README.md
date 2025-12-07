@@ -16,6 +16,7 @@ El projecte està dissenyat per ser compilat amb `gcc`. Segueix els passos segü
 1.  Clona el repositori o descarrega els fitxers font.
 2.  Obre la terminal al directori del projecte.
 3.  Executa la següent comanda de compilació:
+```bash
 gcc main.c 4enratlla.c minimax.c -o 4enratlla
 I executa'l a Windows fent: 4enratlla.exe
 A Linux/Mac fent: ./4enratlla
