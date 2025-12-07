@@ -18,5 +18,6 @@ El projecte està dissenyat per ser compilat amb `gcc`. Segueix els passos segü
 3.  Executa la següent comanda de compilació:
 ```bash
 gcc main.c 4enratlla.c minimax.c -o 4enratlla
+
 I executa'l a Windows fent: 4enratlla.exe
 A Linux/Mac fent: ./4enratlla
