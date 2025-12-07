@@ -15,9 +15,7 @@ Aquest projecte és una implementació completa en C del clàssic joc d'estratè
 El projecte està dissenyat per ser compilat amb `gcc`. Segueix els passos següents per construir l'executable:
 1.  Clona el repositori o descarrega els fitxers font.
 2.  Obre la terminal al directori del projecte.
-3.  Executa la següent comanda de compilació:
+3.  Executa la següent comanda de compilació si tens Windows:
 ```bash
-gcc main.c 4enratlla.c minimax.c -o 4enratlla
-
-I executa'l a Windows fent: 4enratlla.exe
-A Linux/Mac fent: ./4enratlla
+gcc main.c 4enratlla.c minimax.c -o 4enratlla 
+4enratlla.exe
