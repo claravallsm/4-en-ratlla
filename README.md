@@ -5,7 +5,7 @@ Aquest projecte és una implementació completa en C del clàssic joc d'estratè
 * Tauler: Joc desenvolupat sobre una matriu de dimensions $8 \times 8$ (constant `N=8`).
 * Modes de Joc:
     *  Humà vs. Humà: Mode local per a dos jugadors.
-       Humà vs. Màquina: Repte contra la IA amb selecció de torn inicial.
+    *   Humà vs. Màquina: Repte contra la IA amb selecció de torn inicial.
 * **Dificultat Adaptativa:** Selecció de la profunditat de l'arbre de cerca de la IA:
     * *Fàcil:* Profunditat 2.
     * *Mitjana:* Profunditat 4.
